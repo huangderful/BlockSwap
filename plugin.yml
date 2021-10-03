@@ -1,0 +1,19 @@
+name: blockSwap
+version: 1.0
+api-version: 1.16 
+main: me.blockSwap.main.Main
+description: yeeet
+
+commands:
+  shutup:
+    description: shut up.
+  blockswap1:
+    description: 1 player game
+  blockswap3:
+    description: 3 player game
+  setOnBlockOrNot:
+    description: debugging
+    
+  blockswap:
+     description: idiot
+    
